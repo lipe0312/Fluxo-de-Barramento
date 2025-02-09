@@ -7,6 +7,6 @@
 - Matheus Paraiso
 - Laura Ferreira
 - Ivan Souza
-- Felipe
+- Filipe Santana
 - Guilherme Neves
 
